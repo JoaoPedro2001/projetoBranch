@@ -1,8 +1,10 @@
 # projetoBranch
  Aprendendo sobre as branchs
 
-# Título
+**Markdown**
 
-## Título
+_Markdown_
 
-### Título
+*Markdown*
+
+~~Markdown~~
