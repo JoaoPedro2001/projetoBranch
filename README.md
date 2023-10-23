@@ -1,7 +1,7 @@
 # projetoBranch
  Aprendendo sobre as branchs
 
-* Ana
-* João
-  - Maria
-- Carlos
+- [X] Primeira página criada
+- [ ] Segunda página criada
+- [ ] Reunião com o cliente
+- [X] Tarefas realizadas
